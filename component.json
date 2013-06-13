@@ -9,7 +9,7 @@
     "component/event": "*",
     "component/classes": "*",
     "component/query": "*",
-    "component/overlay": "0.1.0"
+    "component/overlay": "*"
   },
   "scripts": ["index.js", "template.js"],
   "styles": ["dialog.css"]
